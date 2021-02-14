@@ -1,0 +1,2 @@
+# FxPedia.ir
+FxPedia
